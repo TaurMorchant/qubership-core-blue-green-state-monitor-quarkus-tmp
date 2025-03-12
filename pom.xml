@@ -59,7 +59,6 @@
     </dependencyManagement>
 
     <modules>
-        <module>aggregator-for-jacoco</module>
         <module>runtime</module>
         <module>deployment</module>
     </modules>
